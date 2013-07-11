@@ -7,16 +7,16 @@ to a few conditions.
 
 DEFINITIONS
 
-  “Licence”: the terms and conditions for use of the Works as further set out
+  "Licence": the terms and conditions for use of the Works as further set out
   below.
   
-  “Licensor”: the copyright or database right holder (or an entity authorised
+  "Licensor": the copyright or database right holder (or an entity authorised
   by the copyright or database right holder) who is granting this Licence.
   
-  “You”: means the natural or legal person, or body of persons corporate or 
+  "You": means the natural or legal person, or body of persons corporate or 
   incorporate, acquiring rights under this Licence.
   
-  “Works”: material which is made available under this Licence and which is
+  "Works": material which is made available under this Licence and which is
   subject to copyright or database right and which may include (but is not
   limited to) source or object code, databases, literary or artistic works.
 
@@ -41,7 +41,7 @@ You are free to:
   incorporate the Works into a collection consisting of multiple independent
   works;
 
-  exploit the Works commercially — for example, by combining it with other
+  exploit the Works commercially -- for example, by combining it with other
   Works, or by including it in your own product or application which is sold
   for a profit.
  
@@ -102,10 +102,10 @@ You are not required to use the form of attribution below when publishing your
 works, but you are encouraged to. This section does not form part of the
 Licence itself and is included for convenience.
 
-  Copyright © 2013 [your name]
+  Copyright (c) 2013 [your name]
   
   Licensed under the terms of the Digital Public Space Licence, version 1.0
-  (the “Licence”). You may not use this work except in compliance with the
+  (the "Licence"). You may not use this work except in compliance with the
   terms of the Licence. You may obtain a copy of the Licence at:
   
     http://bbcarchdev.github.io/licences/dps/1.0
@@ -130,9 +130,9 @@ is included for convenience.
   operator] a world-wide, non-exclusive, royalty free license allowing those
   contributions to be published, including as part of a composite work
   including other contributions from you and others, under the terms of the
-  Digital Public Space Licence, version 1.0 (“the Licence”), and that you
-  agree to those contributions being attributed to “[website operator] and
-  its contributors”.  You may obtain a copy of the Licence at:
+  Digital Public Space Licence, version 1.0 ("the Licence"), and that you
+  agree to those contributions being attributed to "[website operator] and
+  its contributors".  You may obtain a copy of the Licence at:
   
     http://bbcarchdev.github.io/licences/dps/1.0
 
