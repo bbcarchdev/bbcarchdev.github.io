@@ -79,7 +79,7 @@ This Licence does not cover the use of:
 
 NO WARRANTY	
 
-The Works are licensed ‘as is’ and the Licensor excludes all representations,
+The Works are licensed 'as is' and the Licensor excludes all representations,
 warranties, obligations and liabilities in relation to the Works, including
 without limitation all representations and warranties in relation to their
 quality, performance, fitness for purpose or functionality, to the maximum
@@ -111,14 +111,14 @@ Licence itself and is included for convenience.
     http://bbcarchdev.github.io/licences/dps/1.0
 
   Unless required by law or otherwise agreed in writing, the work distributed
-  under this Licence is distributed on an ‘as-is’ basis and all
+  under this Licence is distributed on an 'as-is' basis and all
   representations, warranties, obligations and liabilities of any kind are
   excluded. See the text of the Licence for details of the specific
   permissions and limitations which apply to this work.
 
 EXAMPLE OF A CONTRIBUTOR CLAUSE FOR WEBSITES
 
-The below clause has been designed to be inserted into a website’s terms and
+The below clause has been designed to be inserted into a website's terms and
 conditions in order to ensure that contributors to the data that you publish
 agree to their submissions being included within the data without specific
 individual attribution. This is particularly useful where you are expecting
