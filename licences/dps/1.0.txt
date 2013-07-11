@@ -108,7 +108,7 @@ Licence itself and is included for convenience.
   (the “Licence”). You may not use this work except in compliance with the
   terms of the Licence. You may obtain a copy of the Licence at:
   
-    http://bbcarchdev.github.io/licenses/dps/1.0
+    http://bbcarchdev.github.io/licences/dps/1.0
 
   Unless required by law or otherwise agreed in writing, the work distributed
   under this Licence is distributed on an ‘as-is’ basis and all
@@ -134,7 +134,7 @@ is included for convenience.
   agree to those contributions being attributed to “[website operator] and
   its contributors”.  You may obtain a copy of the Licence at:
   
-    http://bbcarchdev.github.io/licenses/dps/1.0
+    http://bbcarchdev.github.io/licences/dps/1.0
 
   Any copyright in your contribution will remain with you and this permission
   is not exclusive, so you can continue to use the material you contribute
