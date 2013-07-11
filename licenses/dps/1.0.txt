@@ -110,11 +110,11 @@ Licence itself and is included for convenience.
   
     http://bbcarchdev.github.io/licenses/dps/1.0
 
-Unless required by law or otherwise agreed in writing, the work distributed
-under this Licence is distributed on an ‘as-is’ basis and all
-representations, warranties, obligations and liabilities of any kind are
-excluded. See the text of the Licence for details of the specific permissions
-and limitations which apply to this work.
+  Unless required by law or otherwise agreed in writing, the work distributed
+  under this Licence is distributed on an ‘as-is’ basis and all
+  representations, warranties, obligations and liabilities of any kind are
+  excluded. See the text of the Licence for details of the specific
+  permissions and limitations which apply to this work.
 
 EXAMPLE OF A CONTRIBUTOR CLAUSE FOR WEBSITES
 
