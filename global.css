@@ -38,9 +38,6 @@ body.bbcarchdev .orb-nav-pri .orb-nav-blocks img {
 	width: 290px;
 	height: 24px;
 }
-header, footer, section, aside, article {
-	display: block;
-}
 .blq-clearfix {
 	_height:1%;
 }
