@@ -3,9 +3,11 @@
 pre, code { font-size: 1.2em; }
 
 #blq-content {
+	position: relative;
 	font-size: 1.3em;
+	line-height: 1.6em;
+	font-family: arial,sans-serif;
 }
-
 .callout {
 	box-shadow: 0 0 6px rgba(0,0,0,0.5);
 	border-left: 0.5em solid #fff;
@@ -35,4 +37,17 @@ aside.note {
 body.bbcarchdev .orb-nav-pri .orb-nav-blocks img {
 	width: 290px;
 	height: 24px;
+}
+header, footer, section, aside, article {
+	display: block;
+}
+.blq-clearfix {
+	_height:1%;
+}
+.blq-clearfix:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
 }
