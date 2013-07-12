@@ -1,0 +1,38 @@
+#orb-contentinfo { padding-top: 0; }
+.orb-nav-sec .orb-footer-inner { padding-top: 0; }
+pre, code { font-size: 1.2em; }
+
+#blq-content {
+	font-size: 1.3em;
+}
+
+.callout {
+	box-shadow: 0 0 6px rgba(0,0,0,0.5);
+	border-left: 0.5em solid #fff;
+	margin: 1.5em 0 1.5em 0;
+	padding: 0.75em .5em 0.75em 1em;
+}
+.highlight-block {
+	border-left: 0.5em solid #d4af37;
+}
+
+body.licence header.masthead {
+	text-align: center;
+}
+
+body.licence #blq-content dd,
+body.licence #blq-content li {
+	margin-bottom: 16px;
+}
+body.licence #blq-content dt {
+	font-style: italic;
+}
+aside.note {
+	font-style: italic;
+	padding: 0 1em;
+}
+
+body.bbcarchdev .orb-nav-pri .orb-nav-blocks img {
+	width: 290px;
+	height: 24px;
+}
