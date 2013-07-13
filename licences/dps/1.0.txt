@@ -102,7 +102,7 @@ This Licence was derived from—and is intended to convey equivalent
 permissions to-the Open Government Licence developed by the National Archives
 and the controller of Her Majesty’s Stationery Office (HMSO) for use by the
 public sector through the UK Government Licensing Framework (UKGLF). In
-contrast to the OGL 1.0, the Digital Public Space Licence, Version 1.0 is
+contrast to the OGL 1.0, the Digital Public Space Licence, version 1.0 is
 intended to support the licensing of open data and other assets by any
 organisation. This section does not form part of the Licence itself and is
 included for convenience.
