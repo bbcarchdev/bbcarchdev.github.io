@@ -18,10 +18,29 @@ pre, code { font-size: 1.2em; }
 	border-left: 0.5em solid #d4af37;
 }
 
-body.licence header.masthead {
-	text-align: center;
+header.masthead {
+	text-align: left;
+	background: #dfcc28 url('images/masthead.png') top center no-repeat;
 }
-
+div#masthead {
+	line-height: 115px;
+	height: 115px;
+	font-size: 24pt;
+	font-weight: normal;
+	text-transform: uppercase;
+	position: relative;
+	font-family: "Gill Sans",Arial,sans-serif;
+}
+header.masthead h1, header.masthead h2 {
+	margin: 0;
+	display: inline;
+	font-size: inherit;
+	font-weight: inherit;
+}
+header.masthead h2 {
+	color: #888;
+	font-size: 16pt;
+}
 body.licence #blq-content dd,
 body.licence #blq-content li {
 	margin-bottom: 16px;
