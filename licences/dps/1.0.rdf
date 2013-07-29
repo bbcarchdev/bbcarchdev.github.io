@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dcmit="http://purl.org/dc/dcmitype/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <foaf:Document rdf:about="http://bbcarchdev.github.io/licences/dps/1.0">
+    <dct:title xml:lang="en-gb">Digital Public Space Licence, version 1.0</dct:title>
+  </foaf:Document>
+  <cc:License rdf:about="http://bbcarchdev.github.io/licences/dps/1.0#id">
+    <cc:legalcode rdf:resource="http://bbcarchdev.github.io/licences/dps/1.0"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <dct:hasVersion>1.0</dct:hasVersion>
+    <dct:identifier>DPSL-1.0</dct:identifier>
+  </cc:License>
+  <foaf:Document rdf:about="http://bbcarchdev.github.io/licences/dps/1.0.html">
+    <dct:format rdf:resource="http://purl.org/NET/mediatypes/text/html"/>
+    <dct:isVersionOf rdf:resource="http://bbcarchdev.github.io/licenses/dps/1.0"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <rdfs:label xml:lang="en-gb">Digital Public Space Licence, version 1.0 (HTML)</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://bbcarchdev.github.io/licences/dps/1.0#id"/>
+  </foaf:Document>
+  <foaf:Document rdf:about="http://bbcarchdev.github.io/licences/dps/1.0.nt">
+    <dct:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <dct:isVersionOf rdf:resource="http://bbcarchdev.github.io/licenses/dps/1.0"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <rdfs:label xml:lang="en-gb">Digital Public Space Licence, version 1.0 (N-Triples)</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://bbcarchdev.github.io/licences/dps/1.0#id"/>
+  </foaf:Document>
+  <foaf:Document rdf:about="http://bbcarchdev.github.io/licences/dps/1.0.rdf">
+    <dct:format rdf:resource="http://purl.org/NET/mediatypes/application/rdf+xml"/>
+    <dct:isVersionOf rdf:resource="http://bbcarchdev.github.io/licenses/dps/1.0"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <rdfs:label xml:lang="en-gb">Digital Public Space Licence, version 1.0 (RDF/XML)</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://bbcarchdev.github.io/licences/dps/1.0#id"/>
+  </foaf:Document>
+  <foaf:Document rdf:about="http://bbcarchdev.github.io/licences/dps/1.0.ttl">
+    <dct:format rdf:resource="http://purl.org/NET/mediatypes/text/turtle"/>
+    <dct:isVersionOf rdf:resource="http://bbcarchdev.github.io/licenses/dps/1.0"/>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+    <rdfs:label xml:lang="en-gb">Digital Public Space Licence, version 1.0 (Turtle)</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://bbcarchdev.github.io/licences/dps/1.0#id"/>
+  </foaf:Document>
+</rdf:RDF>
