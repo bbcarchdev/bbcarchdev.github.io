@@ -67,3 +67,34 @@ body.bbcarchdev .orb-nav-pri .orb-nav-blocks img {
 	clear:both;
 	visibility:hidden;
 }
+#all-projects .project {
+	border: solid #ccc 1px;
+	border-radius: 2px;
+	float: left;
+	min-height: 160px;
+	width: 308px;
+	margin-right: 13px;
+	margin-bottom: 13px;
+}
+#all-projects h3 {
+	font-size: 2em;
+	font-weight: normal;
+	margin: 0;
+	padding: 10px 8px;
+	background: #eee;
+	color: #666;
+	border-bottom: solid #ccc 1px;
+}
+#all-projects h3 > a {
+	color: inherit;
+	text-decoration: inherit;
+}
+#all-projects h3 > a:hover, #all-projects h3 > a:active {
+	color: 000;
+	text-decoration: underline;
+}
+#all-projects p {
+	margin: 0;
+	padding: 10px 8px;
+	font-size: 1.2em;
+}
